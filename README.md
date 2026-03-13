@@ -1,22 +1,33 @@
 # H1D024102-PraktikumKB-Pertemuan1
-Pengumpulan tugas praktikum kecerdasan buatan pertemuan 1
 
-Pengimplementasian 3 konsep sesuai insstruksi pada soal :
-1. Struktur kontrol
-   Konsep struktur kontrol yang di implementasikan pada program ini ada 3
-   a. looping
-         - looping for terletak pada baris ke 15
-         - looping while yang terletak pada baris ke 30
-   b. percabangam
-         - percabangan if else terletak pada baris ke 21-25
-         - percabangan if terletak pada baris ke 33
+Pengumpulan tugas praktikum Kecerdasan Buatan pertemuan 1.
 
-2. Struktur data
-   Konsep struktur data di implementasikan pada program untuk membuat list pertanyaan yang terletak di baris ke 4
+## Pengimplementasian 3 Konsep Sesuai Instruksi pada Soal
 
-3. Library
-   Library yang di gunakan pada program ini:
-   a. random
-         Untuk mengacak soal setiap program di mulai, agar urutan soal tidak monoton
-   b. datetime
-         Untuk mengambil waktu saat program di jalankan
+### 1. Struktur Kontrol
+Konsep struktur kontrol yang diimplementasikan pada program ini terdiri dari:
+
+**a. Perulangan (Looping)**
+- Looping `for` terletak pada baris ke-15.
+- Looping `while` terletak pada baris ke-30.
+
+**b. Percabangan**
+- Percabangan `if-else` terletak pada baris ke-21 sampai 25.
+- Percabangan `if` terletak pada baris ke-33.
+
+---
+
+### 2. Struktur Data
+Konsep struktur data yang digunakan dalam program ini adalah **list**.  
+List digunakan untuk menyimpan kumpulan pertanyaan yang terdapat pada **baris ke-4**.
+
+---
+
+### 3. Library
+Library yang digunakan pada program ini adalah:
+
+**a. `random`**  
+Digunakan untuk mengacak soal setiap kali program dijalankan agar urutan soal tidak selalu sama.
+
+**b. `datetime`**  
+Digunakan untuk mengambil waktu saat program dijalankan.
